@@ -1,5 +1,7 @@
 # Data Pipeline Testing
 
+![Data Pipeline Tests](https://github.com/Djones-qa/data-pipeline-testing/actions/workflows/pipeline-tests.yml/badge.svg)
+
 A Python test suite validating schema, data quality, transformations, and pipeline integrity for a simulated ETL pipeline.
 
 ## Project Structure
